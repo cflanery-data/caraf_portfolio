@@ -1,40 +1,31 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# About Me
+Hi, my name is Cara Flanery (she/her/hers)!  I'm a Master of Entertainment Industry Management (MEIM) student at Heinz College at CMU! I'm from West Virginia, and my favorite color is orange! I am dedicated, creative, and always willing to learn new things. I bring a diverse skill set in project management, marketing, and content creation. My experience ranges from leading film and digital media projects to managing case files in legal and financial settings. 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+I am looking forward to broadening my horizons by taking this class, Telling Stories with Data, as I'm very excited to learn a bit more about GitHub, Tableau, and design, as well as the creation of data visualizations. I hope you enjoy viewing my work, and welcome to my portfolio!
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+# What I Hope to Learn
+This class is very unique as it draws on multiple disciplines. I have not used any of the software in this class before, so I'm interested in learning how to use them. 
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+1. Tableau Basics
+2. GitHub Basics
+3. HTML and (possibly) some CSS
+4. Better Design Principles (for the Portfolio and for Data Visualizations)
+5. Making and maintaining a portfolio
+6. Critique Skills
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I currently am hoping to work within acquisitions and distributions within the film industry. I am also starting to be more interested in production finance. 
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+## Examples
+See some examples of my work below!
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+### Film Capstone: [In Vino Veritas](https://drive.google.com/file/d/1XT8uva1pOmd0nQbYTWETyR_7wORVHqbX/view?usp=sharing)
+This is a link to my film capstone that I created in 2023. It is a short documentary that tells the story of an independent, small-batch winery in West Virginia. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+### Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
