@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [separate page test](separate_page_test)
 
 # About Me
 Hi, my name is Cara Flanery (she/her/hers)!  I'm a Master of Entertainment Industry Management (MEIM) student at Heinz College at CMU! I'm from West Virginia, and my favorite color is orange! I am dedicated, creative, and always willing to learn new things. I bring a diverse skill set in project management, marketing, and content creation. My experience ranges from leading film and digital media projects to managing case files in legal and financial settings. 
@@ -48,28 +48,9 @@ We have yet to discuss the final project. I am thinking of researching adoption 
 Thanks for taking the time to look through my portfolio! Here is my contact information: 
 [LinkedIn](https://www.linkedin.com/in/cara-flanery-3740a8199/)
 
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
 
 ## References
-_List any references you used here._
+None.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I did not use AI.
