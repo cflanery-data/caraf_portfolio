@@ -40,9 +40,9 @@ This page is linking to a new Markdown document called `critique-by-design.md`.
 ### Final Project
 We have yet to discuss the final project. I am thinking of researching adoption topics. 
 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+[Part I](final-project-part-one) | 
+[Part II](final-project-part-two) | 
+[Part III](final-project-part-three) 
 
 # Contact Me
 Thanks for taking the time to look through my portfolio! Here is my contact information: 
