@@ -19,62 +19,34 @@ I currently am hoping to work within acquisitions and distributions within the f
 
 # Portfolio
 
-## Examples
+## Past Examples
 See some examples of my work below!
 
 ### Film Capstone: [In Vino Veritas](https://drive.google.com/file/d/1XT8uva1pOmd0nQbYTWETyR_7wORVHqbX/view?usp=sharing)
 This is a link to my film capstone that I created in 2023. It is a short documentary that tells the story of an independent, small-batch winery in West Virginia. 
 
-### Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+### Blog: [Why Do Social Media Influencers Need Insurance?](https://www.blueridgeriskpartners.com/blog/why-do-social-media-influencers-need-insurance)
+This is a link to my first blog I wrote in a summer marketing internship in 2022! I also created the embedded infographic within the blog. 
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
+## Future Assignments
+Within Telling Stories with Data, I will be learning a lot and creating a lot of data visualizations! Below are some future assignments. 
+
+### Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
+This is a future assignment called "Visualizing Government Debt." 
+
+### Assignment 2: [Critique by Design](critique-by-design)
+This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+### Final Project
+We have yet to discuss the final project. I am thinking of researching adoption topics. 
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
+# Contact Me
+Thanks for taking the time to look through my portfolio! Here is my contact information: 
+[LinkedIn](https://www.linkedin.com/in/cara-flanery-3740a8199/)
 
 ### Setting up a separate page
 
