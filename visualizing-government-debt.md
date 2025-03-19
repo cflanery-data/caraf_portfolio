@@ -4,3 +4,5 @@ For each data visualization exercise, you will be provided with a dataset and yo
 For this assignment you'll be working with a web-based visualization tool, and later designing your own visualizations with Tableau.  Exercises like these will provide you with a hands-on opportunity to demonstrate your proficiency in a number of tools and techniques you learn during this course.
 
 For this assignment, you have the option of adding some of these visualizations to your online portfolio.  A good place to do that is on the dataviz examples page on your portfolio. 
+
+***From CMU Canvas Telling Stories with Data: Visualizing Government Debt Assignment
