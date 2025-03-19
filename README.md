@@ -22,8 +22,8 @@ I currently am hoping to work within acquisitions and distributions within the f
 ## Past Examples
 See some examples of my work below!
 
-### Film Capstone: [In Vino Veritas](https://drive.google.com/file/d/1XT8uva1pOmd0nQbYTWETyR_7wORVHqbX/view?usp=sharing)
-This is a link to my film capstone that I created in 2023. It is a short documentary that tells the story of an independent, small-batch winery in West Virginia. 
+### Film Capstone Shortform: [In Vino Veritas](https://www.rhodeskin.com/?utm_source=google&utm_medium=cpc&utm_campaign=17448150165&utm_adgroup=141398040630&utm_content=602982285976&utm_term=rhode%20skincare&gad_source=1&gclid=Cj0KCQjw1um-BhDtARIsABjU5x4vmEOz9_ZB7PsO1igWToU7_yKLDQYS6MPPzYYXaesz0Iy3Nx6F9OkaAgRuEALw_wcB)
+This is a link to a shortened version of my film capstone I created in 2023. It followes the story of an independent, small-batch winery in West Virginia. 
 
 ### Blog: [Why Do Social Media Influencers Need Insurance?](https://www.blueridgeriskpartners.com/blog/why-do-social-media-influencers-need-insurance)
 This is a link to my first blog I wrote in a summer marketing internship in 2022! I also created the embedded infographic within the blog. 
