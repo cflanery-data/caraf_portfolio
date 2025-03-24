@@ -37,6 +37,9 @@ This is a future assignment called "Visualizing Government Debt."
 ### Assignment 2: [Critique by Design](critique-by-design)
 This page is linking to a new Markdown document called `critique-by-design.md`.  
 
+### Assignment 3: [Trust in News Organizations](tableau-tutorial-news.md)
+This page links to the tutorial in class about recreating a graph about trust in news organizations.  
+
 ### Final Project
 We have yet to discuss the final project. I am thinking of researching adoption topics. 
 
