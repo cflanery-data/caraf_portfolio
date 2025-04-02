@@ -11,4 +11,8 @@ The next part of the assignment required using Stephen Few's [Data Visualization
 I struggled a lot with this critique. I felt that the context of the article was discussing whether pineapple on pizza was liked, yet the data visualization merely told us that mushrooms were the most liked topping in the UK. I thought a lot about what the difference between "Perceptibility" and "Intuitiveness" was and ultimately settled on the graph being low in perceptibility and high in intuitiveness. This means that the information was unclear and difficult to parse (perception) because of the pie graph hallucination as mentioned before along with no clear focus on mushrooms being the most liked pizza topping, yet it is familiar to a common viewer and doesn't take too much effort to understand in terms of being able to figure it out fairly quickly. I was also confused by the note at the bottom: why omit eight more toppings from the data visualization, especially ones that are ranked highly? I was drawn in by the pizza image, but I felt that the slices were too confusing at a glance and wanted to work on trying to bring the fun pizza feel to my redesign, while making it easier to read. 
 
 ## Step Three: Sketch out a solution.
-I decided to just go ahead and use Tableau 
+I decided to just go ahead and use Tableau for my draft design. I knew I wanted to do a horizontal bar chart since I thought that would best be able to show all the toppings (even the ones that were omitted from the original graph). I tried to do a pizza color theme but wanted to emphasize UK respondants liking pineapple on pizza as being the main takeaway rather than just most liked toppings. Here was my first draft: 
+![Pineapple on Pizza Draft 1](pineappledraft1.png)
+
+
+
