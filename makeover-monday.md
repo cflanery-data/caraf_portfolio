@@ -20,17 +20,17 @@ Here was my first draft:
 I interviewed a friend, mid-20s, that visited me for the weekend, who has had very little experience with critiquing data visualizations. She was able to get the gist quickly, that people in the UK like pineapple on pizza; however, she wasn't a big fan of the colors. Taking this feedback, I made my second draft: 
 ![Pineapple on Pizza Draft 2](https://github.com/user-attachments/assets/dbe55e80-3ddf-4b60-825e-9435a7fb1863)
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-| Can you tell me what you think this is? |             |             |
-| Who do you think is the intended audience for this? |             |             |
-| Is there anything you would change or do differently? |             |             |
+I changed the colors to be gray and yellow-orange to match the pineapple color and still make it stand out. Even though I lost a bit of the "pizza" color scheme, I felt the colors worked better, especially for pineapple. This version is the one I took to class. There, I got feedback from three other students in our Telling Stories with Data class, mid-20s. The general feedback from the three of them was that while pineapple on pizza was coming across, the topic seemed like it was fun and for the general public, not necessarily corporate. If I could make the fonts more fun and play around with colors rather than gray, it'd be more engaging. They also were a bit confused if the graph was showing the UK's most _liked_ toppings or _favorite_ topics, so I changed the subtitle to match the title. 
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+| Question | Interview 1 | Group Class Interview |
+|----------|-------------|-------------|
+| Can you tell me what you think this is? | Graph of pizza toppings. | UK citizens like pineapple on pizza. |
+| Who do you think is the intended audience for this? | Corporate/business. | UK businesses? |
+| Is there anything you would change or do differently? | Colors | Making it more fun with color and fonts. |
 
-I changed the colors to be gray and yellow-orange to match the pineapple color and still make it stand out. Even though I lost a bit of the "pizza" color scheme, I felt the colors worked better, especially for pineapple. This version is the one I took to class. There, I got feedback from three other students in our Telling Stories with Data class, mid-20s. The general feedback from the three of them was that while pineapple on pizza was coming across, the topic seemed like it was fun and for the general public, not necessarily corporate. If I could make the fonts more fun and play around with colors rather than gray, it'd be more engaging. They also were a bit confused if the graph was showing the UK's most _liked_ toppings or _favorite_ topics, so I changed the subtitle to match the title. 
+As you can see, most people were able to easily see what the graph was trying to portray; however, they thought it should be more fun instead of corporate-looking, and thought this was most easily done through the use of color. 
 
 ## Step Five: Build your solution.
 Based on everyone's feedback, this is the final redesign: 
