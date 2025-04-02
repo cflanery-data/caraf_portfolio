@@ -6,6 +6,7 @@
 
 ## Step One: Choose a data visualization from Makeover Monday.
 For this assignment, I have chosen to redesign this data visualization, titled: [Mushroom is the UK's most liked pizza topping](https://yougov.co.uk/politics/articles/17714-does-pineapple-belong-pizza). Here is a screenshot: 
+
 ![Mushroom is the UK's most liked pizza topping](https://github.com/user-attachments/assets/b8a5dbea-06e6-4293-a679-1ad14580dbe8)
 
 After looking through many of the listed data visualizations on the Makeover Monday website, I ultimately decided to go with this one, primarily because I had a lot to say about it. I thought it was a fun topic, and the picture of the pizza drew me in. I also liked the context of the article. As a hater of pineapple on pizza myself, I was interested in seeing what the UK had to say about it. I was most confused by the slices of the pizza being evenly sliced, leading me to think I was looking at a pie graph, when the slices of the pizza had nothing to do with the data proportions. This is what I most wanted to change in my redesign. 
