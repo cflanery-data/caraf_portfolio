@@ -12,7 +12,8 @@ I struggled a lot with this critique. I felt that the context of the article was
 
 ## Step Three: Sketch out a solution.
 I decided to just go ahead and use Tableau for my draft design. I knew I wanted to do a horizontal bar chart since I thought that would best be able to show all the toppings (even the ones that were omitted from the original graph). I tried to do a pizza color theme but wanted to emphasize UK respondants liking pineapple on pizza as being the main takeaway rather than just most liked toppings. Here was my first draft: 
-![Pineapple on Pizza Draft 1](pineappledraft1.png)
+![Pineapple on Pizza Draft 1](https://github.com/user-attachments/assets/2a441f1e-979f-474b-9ed8-140a26781f3f)
+
 
 
 
