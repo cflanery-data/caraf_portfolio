@@ -14,6 +14,18 @@ I struggled a lot with this critique. I felt that the context of the article was
 I decided to just go ahead and use Tableau for my draft design. I knew I wanted to do a horizontal bar chart since I thought that would best be able to show all the toppings (even the ones that were omitted from the original graph). I tried to do a pizza color theme but wanted to emphasize UK respondants liking pineapple on pizza as being the main takeaway rather than just most liked toppings. Here was my first draft: 
 ![Pineapple on Pizza Draft 1](https://github.com/user-attachments/assets/2a441f1e-979f-474b-9ed8-140a26781f3f)
 
+## Step Four: Test the solution. 
+I interviewed a friend, mid-20s, that visited me for the weekend, who has had very little experience with critiquing data visualizations. She was able to get the gist quickly, that people in the UK like pineapple on pizza; however, she wasn't a big fan of the colors. Taking this feedback, I made my second draft: 
+![Pineapple on Pizza Draft 2](https://github.com/user-attachments/assets/dbe55e80-3ddf-4b60-825e-9435a7fb1863)
+
+I changed the colors to be gray and yellow-orange to match the pineapple color and still make it stand out. Even though I lost a bit of the "pizza" color scheme, I felt the colors worked better, especially for pineapple. This version is the one I took to class. There, I got feedback from three other students in our Telling Stories with Data class, mid-20s. The general feedback from the three of them was that while pineapple on pizza was coming across, the topic seemed like it was fun and for the general public, not necessarily corporate. If I could make the fonts more fun and play around with colors rather than gray, it'd be more engaging. They also were a bit confused if the graph was showing the UK's most _liked_ toppings or _favorite_ topics, so I changed the subtitle to match the title. 
+
+Based on their feedback, this is the final redesign: 
+![Pineapple on Pizza Redesign](https://github.com/user-attachments/assets/e2399943-0a18-4355-9843-145c81b52e48)
+
+
+
+
 
 
 
