@@ -46,7 +46,7 @@ Here is a link to the final visualization on Tableau Public too!
 ## References
 Few, S. (2017). Data Visualization Effectiveness Profile. Perceptual Edge. 
 
-Smith, M. (2017, March 6). Does pineapple belong on a pizza? | YouGov. Does Pineapple Belong on a Pizza? https://yougov.co.uk/politics/articles/17714-does-pineapple-belong-pizza
+Smith, M. (2017, March 6). Does pineapple belong on a pizza? YouGov. Does Pineapple Belong on a Pizza? https://yougov.co.uk/politics/articles/17714-does-pineapple-belong-pizza
 
 
 
