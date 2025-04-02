@@ -1,4 +1,6 @@
-Tutorial: Tableau (in-class exercise)
+| [home page](https://cflanery-data.github.io/caraf_portfolio/) | [data viz examples](dataviz-examples) | [critique and redesign](makeover-monday.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+# Tutorial: Tableau (in-class exercise)
 
 Recreating a graph: 
 
