@@ -40,6 +40,9 @@ This page is linking to a new Markdown document called `critique-by-design.md`.
 ### Assignment 3: [Trust in News Organizations](tableau-tutorial-news.md)
 This page links to the tutorial in class about recreating a graph about trust in news organizations.  
 
+### Assignment 4: [Makeover Monday](makeover-monday.md)
+This links to my redesign of a graph found on Makeover Monday.
+
 ### Final Project
 We have yet to discuss the final project. I am thinking of researching adoption topics. 
 
