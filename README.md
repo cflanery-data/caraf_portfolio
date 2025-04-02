@@ -1,4 +1,4 @@
-| [home page](https://cflanery-data.github.io/caraf_portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [test](separate-page-2.md)
+| [home page](https://cflanery-data.github.io/caraf_portfolio/) | [data viz examples](dataviz-examples) | [critique by design](makeover-monday.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [test](separate-page-2.md)
 
 # About Me
 Hi, my name is Cara Flanery (she/her/hers)!  I'm a Master of Entertainment Industry Management (MEIM) student at Heinz College at CMU! I'm from West Virginia, and my favorite color is orange! I am dedicated, creative, and always willing to learn new things. I bring a diverse skill set in project management, marketing, and content creation. My experience ranges from leading film and digital media projects to managing case files in legal and financial settings. 
