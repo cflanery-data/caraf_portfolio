@@ -1,3 +1,5 @@
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique and redesign](makeover-monday.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Assignment: Critique and Re-Design (Makeover Monday)
 
 [Makeover Monday](https://makeovermonday.co.uk/) is a website that has links to data visualizations with public data that you can use to practice critiquing and redesigning data visualizations. 
