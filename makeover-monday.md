@@ -43,5 +43,10 @@ Embedded Result for Interaction:
 Here is a link to the final visualization on Tableau Public too!
 [Pineapple on Pizza Redesign](https://public.tableau.com/app/profile/cara.flanery/viz/PineappleonPizza_17436089327090/Sheet1?publish=yes)
 
+## References
+Few, S. (2017). Data Visualization Effectiveness Profile. Perceptual Edge. 
+
+Smith, M. (2017, March 6). Does pineapple belong on a pizza? | YouGov. Does Pineapple Belong on a Pizza? https://yougov.co.uk/politics/articles/17714-does-pineapple-belong-pizza
+
 
 
