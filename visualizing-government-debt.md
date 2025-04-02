@@ -1,3 +1,5 @@
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique and redesign](makeover-monday.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Working with Tableau: Visualizing Government Debt
 
 ## Part Two
