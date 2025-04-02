@@ -20,12 +20,10 @@ I interviewed a friend, mid-20s, that visited me for the weekend, who has had ve
 
 I changed the colors to be gray and yellow-orange to match the pineapple color and still make it stand out. Even though I lost a bit of the "pizza" color scheme, I felt the colors worked better, especially for pineapple. This version is the one I took to class. There, I got feedback from three other students in our Telling Stories with Data class, mid-20s. The general feedback from the three of them was that while pineapple on pizza was coming across, the topic seemed like it was fun and for the general public, not necessarily corporate. If I could make the fonts more fun and play around with colors rather than gray, it'd be more engaging. They also were a bit confused if the graph was showing the UK's most _liked_ toppings or _favorite_ topics, so I changed the subtitle to match the title. 
 
-Based on their feedback, this is the final redesign: 
-![Pineapple on Pizza Redesign](https://github.com/user-attachments/assets/e2399943-0a18-4355-9843-145c81b52e48)
+## Step Five: Build your solution.
+Based on everyone's feedback, this is the final redesign: 
+![Pineapple on Pizza Redesign](https://github.com/user-attachments/assets/40cb4a5b-6d36-4270-9dc9-96a9d9b536fa)
 
-
-
-
-
+Color was the hardest area for me. I wanted to make it fun but also make it easy to see the pineapple. I eventually added a column to my data: Fruit, Fish, Meat, and Vegetables and categorized each item according to those. This allowed me to add a legend to the side with each category. I chose to use categorical colors for these: Blue for Fish, Red for Meat, Green for Vegetables, and Pink for Fruit. I made those colors very lightly saturated so they don't distract from the I separated Pineapple out and made it bright yellow. 
 
 
