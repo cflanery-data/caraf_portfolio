@@ -1,7 +1,69 @@
 | [home page](https://cflanery-data.github.io/caraf_portfolio/) | [data viz examples](dataviz-examples) | [critique and redesign](makeover-monday.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Final Project Part One
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+## Working Title
+Hollywood Is Everywhere: Mapping the Rise of New Film Production Hubs in the United States
+
+## Summary
+For decades, Los Angeles was the heart of the film industry. Recently, however, that geography has changed dramatically. Thanks to evolving tax incentives, cheaper production costs, and growing infrastructure, many states across the US have unexpectedly grown into powerhouses of film production.
+
+In this project, I hope to use data to explore the geographic decentralization of the US film industry, examining how and why states like Georgia, New Mexico, Louisiana, and even parts of Appalachia have emerged as key filming locations. I’ll start by giving some history about the growth of Los Angeles via a timeline. Then, I’ll evaluate where media is now being produced more and more. I may do a case study of West Virginia’s growing film industry specifically, as that is where I am from and my long-term goal is to drive more entertainment to the state. Through data visualization in this project, I will analyze where movies are made, the economic incentives behind location decisions, and what this means for local communities. 
+
+The audience for this project will be both studios and independent filmmakers. The story will help them keep in mind locations for their next film while staying on budget and promoting local economies. As I’m putting a “West Virginia” twist on it with the goal to bring more production to WV, the call to action will encourage filmmakers to consider WV as their next filming location with a link to information about their tax incentives or potentially current filmmakers there they could reach out to and partner with. 
+
+## The Outline
+### Logline: 
+Film production is moving away from Hollywood — discover how tax incentives, lower costs, and fresh scenery are drawing production to different US states. 
+
+### Introduction: 
+1. Introduce the rise of film production in Los Angeles. Bold Canva statistic?
+2. Show the history of notable movies made in LA and their budgets. Timeline data visualization with budget points. 
+3. Establish that in the past, “Movies = Hollywood.”
+
+### Rising Action: 
+1. On the timeline, highlight when and where the shift from LA occurs.  
+2. Identify new major production hubs (ie. Georgie, New Mexico, West Virginia). Map data visualization. 
+3. Explain the role of state tax incentives and rebates. Map data visualization. Comparison showing that where there are strong tax incentives, there should be a correlation of more film production in those states. 
+
+### Climax: 
+1. Georgia is rapidly growing in production. In 2018, “more major feature films were produced in Georgia than in California” (How Atlanta Overtook Hollywood | Roundabout Atlanta, 2023). 
+2. Show high-profile productions filmed in Georgia (ie. _The Hunger Games: Catching Fire_ (2013), _Avengers: Infinity War_ (2018)). 
+3. Focus on West Virginia as a growing production state. On the map from before, highlight WV’s tax incentives. 
+Give examples of movies that have been filmed there recently (ie. _Feast of the Seven Fishes_ (2019)).  
+
+### Falling Action: 
+1. Explore economic growth in these new regions: job creation and discovery of local talent. 
+2. Contrast with what is happening to California’s share. 
+
+### Resolution/Call to Action:
+1. Reflect that decentralization is leading to economic growth outside of California. 
+2. Emphasize that though these other states are growing, we are not forgetting Hollywood. 
+3. Discuss opportunities that states like WV could do to continue to attract production.
+4. Call to Action: As mentioned before, support local film initiatives, consider WV as filmmakers’ next filming location with links to relevant information. 
+
+## Initial Sketches
+U.S. Map (Choropleth or Dot Map) – LA productions
+Timeline of Hollywood productions
+Timeline interrupted/highlighted moving away from LA
+States shaded by number of productions per year (2000–2023).
+Overlay film tax incentive status.
+
+## The Data
+Data Sources:
+[List of Tax Incentives](https://www.wrapbook.com/blog/film-industry-tax-incentives)  
+[Georgia Tax Incentives](https://georgia.org/industries/film-entertainment/georgia-film-tv-production/production-incentives) 
+[WV Tax Incentives](https://westvirginia.gov/filmincentives/)
+[California Tax Incentives](https://film.ca.gov/tax-credit/) 
+[Hollywood Timeline](https://www.theguardian.com/film/2010/feb/28/philip-french-best-hollywood-films)
+
+## Method and Medium
+I plan on using Shorthand as the main platform for my project. I also plan on using Tableau to create the data visualizations. If needed, I will use Datawrapper for data visualizations and for call-out statistics, I can use Canva. 
+
+
+______________________
+
+Template below: 
 
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
