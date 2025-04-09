@@ -50,57 +50,26 @@ These are the initial sketches for the basic outline. These are subject to chang
 ![tswd 2](https://github.com/user-attachments/assets/df664301-24af-4779-a89c-3e63c6bca4e0)
 ![twsd 4](https://github.com/user-attachments/assets/1d28e9ec-1bcf-4e88-a76e-cbd9dab7aae6)
 
+## The Data 
+So far, I have found a lot of data to work with. I will be focusing on box office revenues and locations. Unfortunately, I have not found a comprehensive data set for movie locations, but I can look it up on IMDb, which I can manually paste into Excel. My primary data sources will be Box Office Mojo for identifying domestic films, IMDb for researching their primary filming locations, and the National Conference of State Legislatures (NCSL) for tax incentive information. For more detailed tax incentive info specifically for California, Georgia, and WV, I will be visiting their local government film production tax incentive websites. I have also found industry reports from FilmLA detailing information about the decline of film production centralized in Los Angeles over the past few quarters. I have also found various other websites with potentially useful statistics related to the topic. See details below: 
 
-## The Data -- will write more about this later
 Data Sources:
-[List of Tax Incentives](https://www.wrapbook.com/blog/film-industry-tax-incentives)  
-[Georgia Tax Incentives](https://georgia.org/industries/film-entertainment/georgia-film-tv-production/production-incentives) 
-[WV Tax Incentives](https://westvirginia.gov/filmincentives/)
-[California Tax Incentives](https://film.ca.gov/tax-credit/) 
-[Hollywood Timeline](https://www.theguardian.com/film/2010/feb/28/philip-french-best-hollywood-films)
+| Name | Description |
+|------|-------------|
+| [Box Office Mojo](https://www.boxofficemojo.com/) | Box office gross revenue |
+| [IMDb](https://www.imdb.com/) | Movie information: primarily using for locations|
+| [FilmLA](https://filmla.com/our-services/research/) | Highlights film production in LA industry research |
+| [NCSL]([https://www.ncsl.org/](https://www.ncsl.org/fiscal/state-film-and-television-incentive-programs) | Tax incentives by state |
+| [WrapBook](https://www.wrapbook.com/blog/film-industry-tax-incentives) | Another comprehensive website with film tax incentives by state |
+| [California Tax Incentives](https://film.ca.gov/tax-credit/) | CA-specific film tax incentives |
+| [Georgia Tax Incentives](https://georgia.org/industries/film-entertainment/georgia-film-tv-production/production-incentives) | GA-specific film tax incentives |
+| [West Virginia Tax Incentives](https://westvirginia.gov/filmincentives/) | WV-specific film tax incentives |
+| [The Guardian](https://www.theguardian.com/film/2010/feb/28/philip-french-best-hollywood-films) | Timeline of the rise of Hollywood |
+| [Wrapbook WV](https://www.wrapbook.com/blog/west-virginia-film-office) | Potential call to action link to give filmmakers comprehensive WV information |
+| [Atlanta Journal-Constitution](https://www.ajc.com/blog/buzz/top-grossing-films-shot-georgia-since-2008/joqaWPplc0L2mKzwmcNMwK/) | Top domestic grossing films filmed in Georgia |
 
 ## Method and Medium
 I plan on using Shorthand as the main platform for my project. I also plan on using Tableau to create the data visualizations. If needed, I will use Datawrapper for data visualizations and for call-out statistics, I can use Canva. 
 
-
-______________________
-
-Template below: 
-
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
-Text here...
-
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
-
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
-
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
-
 ## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+How Atlanta Overtook Hollywood | Roundabout Atlanta. (2023). Roundabout Atlanta Tours & Transportation. https://www.roundaboutatlanta.com/how-atlanta-overtook-hollywood/
