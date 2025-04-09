@@ -27,7 +27,7 @@ Film production is moving away from Hollywood — discover how tax incentives, l
 3. Explain the role of state tax incentives and rebates. Map data visualization. Comparison showing that where there are strong tax incentives, there should be a correlation of more film production in those states. 
 
 ### Climax: 
-1. Georgia is rapidly growing in production. In 2018, “more major feature films were produced in Georgia than in California” (How Atlanta Overtook Hollywood | Roundabout Atlanta, 2023). 
+1. Georgia is rapidly growing in production. In 2018, “more major feature films were produced in Georgia than in California” (How Atlanta Overtook Hollywood: Roundabout Atlanta, 2023). 
 2. Show high-profile productions filmed in Georgia (ie. _The Hunger Games: Catching Fire_ (2013), _Avengers: Infinity War_ (2018)). 
 3. Focus on West Virginia as a growing production state. On the map from before, highlight WV’s tax incentives. 
 Give examples of movies that have been filmed there recently (ie. _Feast of the Seven Fishes_ (2019)).  
@@ -57,7 +57,6 @@ These are the initial sketches for the basic outline. These are subject to chang
 ## The Data 
 So far, I have found a lot of data to work with. I will be focusing on box office revenues and locations. Unfortunately, I have not found a comprehensive data set for movie locations, but I can look it up on IMDb, which I can manually paste into Excel. My primary data sources will be Box Office Mojo for identifying domestic films, IMDb for researching their primary filming locations, and the National Conference of State Legislatures (NCSL) for tax incentive information. For more detailed tax incentive info specifically for California, Georgia, and WV, I will be visiting their local government film production tax incentive websites. I have also found industry reports from FilmLA detailing information about the decline of film production centralized in Los Angeles over the past few quarters. I have also found various other websites with potentially useful statistics related to the topic. See details below: 
 
-Data Sources:
 | Name | Description |
 |------|-------------|
 | [Box Office Mojo](https://www.boxofficemojo.com/) | Box office gross revenue |
