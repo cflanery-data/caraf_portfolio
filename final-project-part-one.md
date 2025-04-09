@@ -52,12 +52,13 @@ These are the initial sketches for the basic outline. These are subject to chang
   <style>
     .center {
       text-align: center;
-      margin-top: 50px;
+      margin-top: 10px;
     }
   </style>
 </head>
 <body>
   <div class="center">
+    <h3>Introduction, Rising Action, and Disordering Event:</h3>
     <img src="https://github.com/user-attachments/assets/913341d0-06a9-471d-8908-c3b562adad86" width="450">
   </div>
 </body>
@@ -70,7 +71,7 @@ These are the initial sketches for the basic outline. These are subject to chang
   <style>
     .center {
       text-align: center;
-      margin-top: 50px;
+      margin-top: 10px;
     }
   </style>
 </head>
@@ -88,7 +89,7 @@ These are the initial sketches for the basic outline. These are subject to chang
   <style>
     .center {
       text-align: center;
-      margin-top: 50px;
+      margin-top: 10px;
     }
   </style>
 </head>
@@ -106,7 +107,7 @@ These are the initial sketches for the basic outline. These are subject to chang
   <style>
     .center {
       text-align: center;
-      margin-top: 50px;
+      margin-top: 10px;
     }
   </style>
 </head>
