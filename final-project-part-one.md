@@ -63,16 +63,59 @@ These are the initial sketches for the basic outline. These are subject to chang
 </body>
 </html>
 
-<img src="https://github.com/user-attachments/assets/913341d0-06a9-471d-8908-c3b562adad86" width="450">
-
 ### Climax:
-<img src="https://github.com/user-attachments/assets/3fdd3f39-5438-4ce7-a136-ad51cee8cc6f" width="450">
+<html>
+<head>
+  <title>Centered Image</title>
+  <style>
+    .center {
+      text-align: center;
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div class="center">
+    <img src="https://github.com/user-attachments/assets/3fdd3f39-5438-4ce7-a136-ad51cee8cc6f" width="450">
+  </div>
+</body>
+</html>
 
 ### Falling Action and Case Studies: 
-<img src="https://github.com/user-attachments/assets/df664301-24af-4779-a89c-3e63c6bca4e0" width="450">
+<html>
+<head>
+  <title>Centered Image</title>
+  <style>
+    .center {
+      text-align: center;
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div class="center">
+    <img src="https://github.com/user-attachments/assets/df664301-24af-4779-a89c-3e63c6bca4e0" width="450">
+  </div>
+</body>
+</html>
 
 ### Call to Action: 
-<img src="https://github.com/user-attachments/assets/1d28e9ec-1bcf-4e88-a76e-cbd9dab7aae6" width="450">
+<html>
+<head>
+  <title>Centered Image</title>
+  <style>
+    .center {
+      text-align: center;
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div class="center">
+    <img src="https://github.com/user-attachments/assets/1d28e9ec-1bcf-4e88-a76e-cbd9dab7aae6" width="450">
+  </div>
+</body>
+</html>
 
 ## The Data 
 So far, I have found a lot of data to work with. I will be focusing on box office revenues and locations. Unfortunately, I have not found a comprehensive data set for movie locations, but I can look it up on IMDb, which I can manually paste into Excel. 
