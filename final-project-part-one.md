@@ -19,11 +19,11 @@ Film production is moving away from Hollywood — discover how tax incentives, l
 ### Introduction: 
 1. Introduce the rise of film production in Los Angeles. Bold Canva statistic?
 2. Show the history of notable movies made in LA and their budgets. Timeline data visualization with budget points. 
-3. Establish that in the past, “Movies = Hollywood.”
+3. Establish that in the past: “Movies = Hollywood.”
 
 ### Rising Action: 
 1. On the timeline, highlight when and where the shift from LA occurs.  
-2. Identify new major production hubs (ie. Georgie, New Mexico, West Virginia). Map data visualization. 
+2. Identify new major production hubs (ie. Georgia, New Mexico, West Virginia). Map data visualization. 
 3. Explain the role of state tax incentives and rebates. Map data visualization. Comparison showing that where there are strong tax incentives, there should be a correlation of more film production in those states. 
 
 ### Climax: 
