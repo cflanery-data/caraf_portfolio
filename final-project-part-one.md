@@ -45,10 +45,10 @@ Give examples of movies that have been filmed there recently (ie. _Feast of the 
 ## Initial Sketches
 These are the initial sketches for the basic outline. These are subject to change, but this is what I'm thinking for now. 
 
-<img src="https://github.com/user-attachments/assets/913341d0-06a9-471d-8908-c3b562adad86" width="200">
-<img src="https://github.com/user-attachments/assets/3fdd3f39-5438-4ce7-a136-ad51cee8cc6f" width="200">
-<img src="https://github.com/user-attachments/assets/df664301-24af-4779-a89c-3e63c6bca4e0" width="200">
-<img src="https://github.com/user-attachments/assets/1d28e9ec-1bcf-4e88-a76e-cbd9dab7aae6" width="200">
+<img src="https://github.com/user-attachments/assets/913341d0-06a9-471d-8908-c3b562adad86" width="300">
+<img src="https://github.com/user-attachments/assets/3fdd3f39-5438-4ce7-a136-ad51cee8cc6f" width="300">
+<img src="https://github.com/user-attachments/assets/df664301-24af-4779-a89c-3e63c6bca4e0" width="300">
+<img src="https://github.com/user-attachments/assets/1d28e9ec-1bcf-4e88-a76e-cbd9dab7aae6" width="300">
 
 ## The Data 
 So far, I have found a lot of data to work with. I will be focusing on box office revenues and locations. Unfortunately, I have not found a comprehensive data set for movie locations, but I can look it up on IMDb, which I can manually paste into Excel. My primary data sources will be Box Office Mojo for identifying domestic films, IMDb for researching their primary filming locations, and the National Conference of State Legislatures (NCSL) for tax incentive information. For more detailed tax incentive info specifically for California, Georgia, and WV, I will be visiting their local government film production tax incentive websites. I have also found industry reports from FilmLA detailing information about the decline of film production centralized in Los Angeles over the past few quarters. I have also found various other websites with potentially useful statistics related to the topic. See details below: 
