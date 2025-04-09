@@ -46,7 +46,9 @@ Give examples of movies that have been filmed there recently (ie. _Feast of the 
 These are the initial sketches for the basic outline. These are subject to change, but this is what I'm thinking for now. 
 
 ### Introduction, Rising Action, and Disordering Event:
+<div class="center">
 <img src="https://github.com/user-attachments/assets/913341d0-06a9-471d-8908-c3b562adad86" width="450">
+</div>
 
 ### Climax:
 <img src="https://github.com/user-attachments/assets/3fdd3f39-5438-4ce7-a136-ad51cee8cc6f" width="450">
