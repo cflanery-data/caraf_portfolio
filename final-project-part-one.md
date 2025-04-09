@@ -72,3 +72,6 @@ I plan on using Shorthand as the main platform for my project. I also plan on us
 
 ## References
 How Atlanta Overtook Hollywood | Roundabout Atlanta. (2023). Roundabout Atlanta Tours & Transportation. https://www.roundaboutatlanta.com/how-atlanta-overtook-hollywood/
+
+## AI Acknowledgements
+I used AI (ChatGPT) to help me troubleshoot the HTML for the images. 
