@@ -28,11 +28,11 @@ This is a link to a shortened version of my film capstone I created in 2023. It 
 ### Blog: [Why Do Social Media Influencers Need Insurance?](https://www.blueridgeriskpartners.com/blog/why-do-social-media-influencers-need-insurance)
 This is a link to my first blog I wrote in a summer marketing internship in 2022! I also created the embedded infographic within the blog. 
 
-## Future Assignments
-Within Telling Stories with Data, I will be learning a lot and creating a lot of data visualizations! Below are some future assignments. 
+## Assignments
+Within Telling Stories with Data, I am learning a lot and creating a lot of data visualizations! Below are some assignments. 
 
 ### Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
-This is a future assignment called "Visualizing Government Debt." 
+This is an assignment called "Visualizing Government Debt." 
 
 ### Assignment 2: [Trust in News Organizations](tableau-tutorial-news.md)
 This page links to the tutorial in class about recreating a graph about trust in news organizations.  
@@ -41,7 +41,7 @@ This page links to the tutorial in class about recreating a graph about trust in
 This links to my redesign of a graph found on Makeover Monday.
 
 ### Final Project
-We have yet to discuss the final project. I am thinking of researching adoption topics. 
+Film production is moving away from Hollywood — discover how tax incentives, lower costs, and fresh scenery are drawing production to different US states. 
 
 [Part I](final-project-part-one) | 
 [Part II](final-project-part-two) | 
