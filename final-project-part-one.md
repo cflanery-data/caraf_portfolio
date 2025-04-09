@@ -74,8 +74,8 @@ These are the initial sketches for the basic outline. These are subject to chang
   </style>
 </head>
 <body>
-  <h3>Climax:</h3>
   <div class="center">
+    <h3>Climax:</h3>
     <img src="https://github.com/user-attachments/assets/3fdd3f39-5438-4ce7-a136-ad51cee8cc6f" width="450">
   </div>
 </body>
@@ -92,8 +92,8 @@ These are the initial sketches for the basic outline. These are subject to chang
   </style>
 </head>
 <body>
-  <h3>Falling Action and Case Studies:</h3>
   <div class="center">
+    <h3>Falling Action and Case Studies:</h3>
     <img src="https://github.com/user-attachments/assets/df664301-24af-4779-a89c-3e63c6bca4e0" width="450">
   </div>
 </body>
@@ -110,8 +110,8 @@ These are the initial sketches for the basic outline. These are subject to chang
   </style>
 </head>
 <body>
-  <h3>Call to Action:</h3>
   <div class="center">
+    <h3>Call to Action:</h3>
     <img src="https://github.com/user-attachments/assets/1d28e9ec-1bcf-4e88-a76e-cbd9dab7aae6" width="450">
   </div>
 </body>
