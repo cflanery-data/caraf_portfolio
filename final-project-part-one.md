@@ -59,7 +59,7 @@ Data Sources:
 | [Box Office Mojo](https://www.boxofficemojo.com/) | Box office gross revenue |
 | [IMDb](https://www.imdb.com/) | Movie information: primarily using for locations|
 | [FilmLA](https://filmla.com/our-services/research/) | Highlights film production in LA industry research |
-| [NCSL]([https://www.ncsl.org/](https://www.ncsl.org/fiscal/state-film-and-television-incentive-programs) | Tax incentives by state |
+| [NCSL](https://www.ncsl.org/fiscal/state-film-and-television-incentive-programs) | Tax incentives by state |
 | [WrapBook](https://www.wrapbook.com/blog/film-industry-tax-incentives) | Another comprehensive website with film tax incentives by state |
 | [California Tax Incentives](https://film.ca.gov/tax-credit/) | CA-specific film tax incentives |
 | [Georgia Tax Incentives](https://georgia.org/industries/film-entertainment/georgia-film-tv-production/production-incentives) | GA-specific film tax incentives |
