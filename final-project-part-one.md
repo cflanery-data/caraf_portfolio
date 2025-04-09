@@ -46,7 +46,6 @@ Give examples of movies that have been filmed there recently (ie. _Feast of the 
 These are the initial sketches for the basic outline. These are subject to change, but this is what I'm thinking for now. 
 
 ### Introduction, Rising Action, and Disordering Event:
-<!DOCTYPE html>
 <html>
 <head>
   <title>Centered Image</title>
@@ -59,7 +58,7 @@ These are the initial sketches for the basic outline. These are subject to chang
 </head>
 <body>
   <div class="center">
-    <img src="https://github.com/user-attachments/assets/913341d0-06a9-471d-8908-c3b562adad86" width="200">
+    <img src="https://github.com/user-attachments/assets/913341d0-06a9-471d-8908-c3b562adad86" width="450">
   </div>
 </body>
 </html>
