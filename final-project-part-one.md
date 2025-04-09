@@ -42,14 +42,14 @@ Give examples of movies that have been filmed there recently (ie. _Feast of the 
 3. Discuss opportunities that states like WV could do to continue to attract production.
 4. Call to Action: As mentioned before, support local film initiatives, consider WV as filmmakers’ next filming location with links to relevant information. 
 
-## Initial Sketches
-U.S. Map (Choropleth or Dot Map) – LA productions
-Timeline of Hollywood productions
-Timeline interrupted/highlighted moving away from LA
-States shaded by number of productions per year (2000–2023).
-Overlay film tax incentive status.
+## Initial Sketches -- Will put in sketches later
+1. U.S. Map (Choropleth or Dot Map) – LA productions
+2. Timeline of Hollywood productions
+3. Timeline interrupted/highlighted moving away from LA
+4. States shaded by number of productions per year (2000–2023).
+5. Overlay film tax incentive status.
 
-## The Data
+## The Data -- will write more about this later
 Data Sources:
 [List of Tax Incentives](https://www.wrapbook.com/blog/film-industry-tax-incentives)  
 [Georgia Tax Incentives](https://georgia.org/industries/film-entertainment/georgia-film-tv-production/production-incentives) 
