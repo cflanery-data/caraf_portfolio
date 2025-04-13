@@ -55,13 +55,35 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+# Moodboard
+![Moodboard](https://github.com/user-attachments/assets/f222ad6f-5531-4bb7-bbfa-20901fdadcdf)
 
-Text here!
+Here is what I'm imaging in terms of color scheme, typography, and graphics!
+
+Images Used:
+3+ Hundred Movie Date Layout Royalty-Free Images, Stock Photos & Pictures. (n.d.). Shutterstock. Retrieved April 13, 2025, from https://www.shutterstock.com/search/movie-date-layout
+
+A film strip with gold accents glows against a backdrop of blue and gold bokeh representing cr | Premium AI-generated image. (n.d.). Freepik. Retrieved April 13, 2025, from https://www.freepik.com/premium-ai-image/film-strip-with-gold-accents-glows-against-backdrop-blue-gold-bokeh-representing-cr_305054235.htm
+
+Actual Film Strips. (n.d.). Arkansas Museum of Fine Arts Store. Retrieved April 13, 2025, from https://store.arkmfa.org/products/actual-film-strips
+
+Amazon.com: BERON Professional Vintage TV Movie Film Clap Board Slate Cut Prop Director Clapper -Black: Electronics. (n.d.). Retrieved April 13, 2025, from https://www.amazon.com/BERON-Professional-Vintage-Director-Clapper/dp/B01FQ5SWRG?th=1
+Georgia Department of Economic Development | #1 State for Business. (n.d.). Retrieved April 13, 2025, from https://georgia.org/
+
+Gold and Blue Color Scheme—Palettes—SchemeColor.com. (n.d.). SchemeColor. Retrieved April 13, 2025, from https://www.schemecolor.com/gold-and-blue.php
+
+Movie and film poster design template background with dramatic sunset film stripe Stock Vector. (n.d.). Adobe Stock. Retrieved April 13, 2025, from https://stock.adobe.com/images/movie-and-film-poster-design-template-background-with-dramatic-sunset-film-stripe/373798907
+
+Pirtle, C. (2017, January 31). And the Nominees Are. . . La La Land. Church Life Journal. https://churchlifejournal.nd.edu/articles/and-the-nominees-are-la-la-land/
+
+Soltani, E. (n.d.). 📈 Gold Prices vs. U.S. Money Supply (1970–September 2024). Retrieved April 13, 2025, from https://www.voronoiapp.com/markets/-Gold-Prices-vs-US-Money-Supply-1970September-2024-2545
+
+Typewriter Font—Writing Machine Font—Instant Download. (n.d.). Retrieved April 13, 2025, from https://www.font-station.com/de/fonts/typewriter-font-writing-machine-font/
+
+Webmaster, C. (2023, October 27). Film Incentives | West Virginia Department of Economic Development Website. https://westvirginia.gov/filmincentives/
 
 ## References
-_List any references you used here._
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
