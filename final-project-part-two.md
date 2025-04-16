@@ -30,7 +30,7 @@ Based on these goals, here are the initial questions:
 
 ## Synthesis of Feedback: 
 | Questions               | Filmmaker | Data Analyst | WV Resident | Class Group Interview |
-|-------------------------|--------------------------------|-------------|-------------|
+|-------------------------|--------------------------------|-------------|-------------|-------------|
 | What is your initial reaction to the draft? |             |             |             | Good and cool, interesting topic |
 | What story do you think is being told? |                                |             |             | Movie industry is healthy and growing and it’s growing in places you might not expect. Positive in that it’s more decentralized now – people everywhere can aspire to be an actor. |
 | Were there any data visualizations that came across as unclear or confusing? Did you think they worked well with the flow of the text? |                                |             |             | Georgia passes California – isolating the two states. US map of tax incentives – helps you see how many states are competing |
