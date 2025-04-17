@@ -93,108 +93,21 @@ Based on these goals, here are the initial questions:
 - Class Group Interview: It makes us want to learn more about the topic and look into budgeting in WV and other states.
 
 ## Synthesis of Feedback: 
+Overall, I got really positive feedback! People liked the draft and found it visually engaging and easy to follow the structure as they went through. They also clearly understood the story as a shift in US film production away from Hollywood with a primary motivator being film tax incentives. They enjoyed hearing more about WV as an often overlooked state.  
 
+The reviewers thought the data visualizations were generally strong and effective, though some improvements were suggested in terms of consistency in the bar charts and fixing the glitches in Tableau (which I am working on troubleshooting - just need a bit more time). They also thought some of the black backgrounds could be spruced up with images, which I agree with and may play around some more with the Shorthand templates. They also wanted more visuals and information specific to WV's industry, so I will add some more detail about the state and specific film production examples over the past few years. Paragraphs were clear, which is good. 
 
-Moving Forward to Part Three: 
-What changes did I identify? 
+There were some questions about overall costs beyond incentives like accomodations for local talent, transportation costs, and logistics. I will try to find some data about that, but I'm not sure I'll be able to. If I can, I may add that information as well. 
 
+I think the call to action works well as I got the answer from the filmmaker as, "It left me feeling to keep an eye out for what may come in West Virginia," which is what I wanted. It also made everyone else want to get a better understanding and watch more of WV-made films, driving attention to the state, which was also a major goal. 
 
+## Moving Forward to Part Three: 
+Based on the feedback received, I first plan to improve the data visualizations. Some reviewers noted the need for more consistent labels on the Tableau graphs and fixing the glitches. As I mentioned before, I am working on troubleshooting that. If needed, I am thinking of using screenshots instead of the graphs and linking to the interactive graph on Tableau public which may take away from some of the interactability within the project itself, but I think would work better overall so that there aren't any weird technical issues. Some visuals could also be made more dynamic, such as adding more photos to the background instead of being all black to better capture attention. 
 
-
-
-
-
-
-
-
-
-
-
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
-
-# User research 
-
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
-
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
-
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
-
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboard
-![Moodboard](https://github.com/user-attachments/assets/f222ad6f-5531-4bb7-bbfa-20901fdadcdf)
-
-Here is what I'm imaging in terms of color scheme, typography, and graphics!
-
-Images Used:
-3+ Hundred Movie Date Layout Royalty-Free Images, Stock Photos & Pictures. (n.d.). Shutterstock. Retrieved April 13, 2025, from https://www.shutterstock.com/search/movie-date-layout
-
-A film strip with gold accents glows against a backdrop of blue and gold bokeh representing cr | Premium AI-generated image. (n.d.). Freepik. Retrieved April 13, 2025, from https://www.freepik.com/premium-ai-image/film-strip-with-gold-accents-glows-against-backdrop-blue-gold-bokeh-representing-cr_305054235.htm
-
-Actual Film Strips. (n.d.). Arkansas Museum of Fine Arts Store. Retrieved April 13, 2025, from https://store.arkmfa.org/products/actual-film-strips
-
-Amazon.com: BERON Professional Vintage TV Movie Film Clap Board Slate Cut Prop Director Clapper -Black: Electronics. (n.d.). Retrieved April 13, 2025, from https://www.amazon.com/BERON-Professional-Vintage-Director-Clapper/dp/B01FQ5SWRG?th=1
-Georgia Department of Economic Development | #1 State for Business. (n.d.). Retrieved April 13, 2025, from https://georgia.org/
-
-Gold and Blue Color Scheme—Palettes—SchemeColor.com. (n.d.). SchemeColor. Retrieved April 13, 2025, from https://www.schemecolor.com/gold-and-blue.php
-
-Movie and film poster design template background with dramatic sunset film stripe Stock Vector. (n.d.). Adobe Stock. Retrieved April 13, 2025, from https://stock.adobe.com/images/movie-and-film-poster-design-template-background-with-dramatic-sunset-film-stripe/373798907
-
-Pirtle, C. (2017, January 31). And the Nominees Are. . . La La Land. Church Life Journal. https://churchlifejournal.nd.edu/articles/and-the-nominees-are-la-la-land/
-
-Soltani, E. (n.d.). 📈 Gold Prices vs. U.S. Money Supply (1970–September 2024). Retrieved April 13, 2025, from https://www.voronoiapp.com/markets/-Gold-Prices-vs-US-Money-Supply-1970September-2024-2545
-
-Typewriter Font—Writing Machine Font—Instant Download. (n.d.). Retrieved April 13, 2025, from https://www.font-station.com/de/fonts/typewriter-font-writing-machine-font/
-
-Webmaster, C. (2023, October 27). Film Incentives | West Virginia Department of Economic Development Website. https://westvirginia.gov/filmincentives/
+Narrative-wise, I'm going to give more detail in text about Georgia and West Virginia to try to clarify and answer some of the research questions that arose when reviewers were parsing through the Shorthand draft. For example, more comparison with the three primary states, more explanation about the film tax incentives and the other potential reasons that production would move away from LA that aren't necessarily tax related, and maybe more general background information about how film production works and who actually is the one that decides where films are going to be shot. Additionally, including specific examples of films or TV shows shot in West Virginia and Georgia will be good to add to help filmmakers see that famous films have been shot outside LA and so theirs can be too. Moving into Part Three, I'll flesh out these areas and figure out the Tableau situation, and I will finish out my Shorthand where I currently have placeholders instead of the actual data/write-up. 
 
 ## References
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+None.
