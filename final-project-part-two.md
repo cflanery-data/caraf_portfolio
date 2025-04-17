@@ -36,40 +36,40 @@ Based on these goals, here are the initial questions:
 - Class Group Interview: Good and cool, interesting topic.
 
 ### 2. What story do you think is being told?
-Filmmaker: How film production is moving away from LA, with Georgia rising and West Virginia stepping onto the scene. It's got a mix of history and econ and also talks about how film production has moved away from California and gone to a more diversified, nationwide industry. Especially in smaller states
-Data Analyst: About how films have shifted away from being based/filmed in LA/California as a whole to other areas of the US and why from a tax and business perspective. What the tax incentives are for directors to film elsewhere.
-WV Resident: How film can be produced in other areas of the country, other than just LA/standard "Hollywood." Tells a story about how we can redirect how we know film.
-Class Group Interview: Movie industry is healthy and growing and it’s growing in places you might not expect. Positive in that it’s more decentralized now – people everywhere can aspire to be an actor.
+- Filmmaker: How film production is moving away from LA, with Georgia rising and West Virginia stepping onto the scene. It's got a mix of history and econ and also talks about how film production has moved away from California and gone to a more diversified, nationwide industry. Especially in smaller states
+- Data Analyst: About how films have shifted away from being based/filmed in LA/California as a whole to other areas of the US and why from a tax and business perspective. What the tax incentives are for directors to film elsewhere.
+- WV Resident: How film can be produced in other areas of the country, other than just LA/standard "Hollywood." Tells a story about how we can redirect how we know film.
+- Class Group Interview: Movie industry is healthy and growing and it’s growing in places you might not expect. Positive in that it’s more decentralized now – people everywhere can aspire to be an actor.
 
 ### 3. Were there any data visualizations that came across as unclear or confusing? Did you think they worked well with the flow of the text?
-Filmmaker: Not yet — but placeholders and notes show what’s coming. Just make sure they’re clear and well-labeled when added. The black “Lets explore Hollywood should have some background, just black felt like it was missing something right after “Opening credits.” The lights camera action part could be bigger. The photo is cool but there is a lot of blank space
-Data Analyst: They come up strongly. Favorite one is of the 48 states, but the only caveat is the glitches right now. Maybe have the explanation of the tax incentives first then the map. Variation in the units for the bar charts would be better to be consistent.
-WV Resident: Data was pretty easy to digest and understand, maybe just some direct statements about the WV film industry would be a nice visual.
-Class Group Interview: Georgia passes California – isolating the two states would be cool to see. US map of tax incentives – helps you see how many states are competing
+- Filmmaker: Not yet — but placeholders and notes show what’s coming. Just make sure they’re clear and well-labeled when added. The black “Lets explore Hollywood should have some background, just black felt like it was missing something right after “Opening credits.” The lights camera action part could be bigger. The photo is cool but there is a lot of blank space
+- Data Analyst: They come up strongly. Favorite one is of the 48 states, but the only caveat is the glitches right now. Maybe have the explanation of the tax incentives first then the map. Variation in the units for the bar charts would be better to be consistent.
+- WV Resident: Data was pretty easy to digest and understand, maybe just some direct statements about the WV film industry would be a nice visual.
+- Class Group Interview: Georgia passes California – isolating the two states would be cool to see. US map of tax incentives helps you see how many states are competing
 
 ### 4. Were there any paragraphs that came across as unclear or confusing?
-Filmmaker: Just the “Different Types of Tax Credits” part. I’m guessing you’re gonna add more to that
-Data Analyst: Paragraphs were clear.
-WV Resident: Paragraphs were not confusing!
-Class Group Interview: Nope!
+- Filmmaker: Just the “Different Types of Tax Credits” part. I’m guessing you’re gonna add more to that
+- Data Analyst: Paragraphs were clear.
+- WV Resident: Paragraphs were not confusing!
+- Class Group Interview: Nope!
 
 ### 5. Was there anything you found particularly interesting/surprising/fun that you think should be explored further?
-Filmmaker: Yes! West Virginia’s rise is super interesting — adding local examples or images would be great. West Virginia’s rise was cool and maybe adding some examples. The tax reasons and invectives are really important to note, but maybe adding some tv or film examples of what has shot there could help spruce it up a bit. I see you have the film examples coming so that’s awesome! Maybe even how the area is similar to hollywoods, in that the areas are great to shoot in for either landscape, outdoor sets, the community or something to add more than just tax reasons.
-Data Analyst: The 48 states were my favorite because it was really easy to see the contrast between the different state incentives. I would like to see more about how Georgia is different from California. And also, why Georgia over Vermont, for example? Another thing that would be interesting to look into is the question of who picks where the film will be produced?  Who is the one selecting the sites: is it the director, the production accountant, etc.? And are there any influences from directors who have ties to their home states?
-WV Resident: I think that's the amount of films that have come out of Georgia and WV would be a good statistic to add.
-Class Group Interview: We would like to see more about budgets - is it cheaper to make in one state versus another based on wages, accomodations, transportation costs/traffic, incidentals, etc.
+- Filmmaker: Yes! West Virginia’s rise is super interesting — adding local examples or images would be great. West Virginia’s rise was cool and maybe adding some examples. The tax reasons and invectives are really important to note, but maybe adding some tv or film examples of what has shot there could help spruce it up a bit. I see you have the film examples coming so that’s awesome! Maybe even how the area is similar to hollywoods, in that the areas are great to shoot in for either landscape, outdoor sets, the community or something to add more than just tax reasons.
+- Data Analyst: The 48 states were my favorite because it was really easy to see the contrast between the different state incentives. I would like to see more about how Georgia is different from California. And also, why Georgia over Vermont, for example? Another thing that would be interesting to look into is the question of who picks where the film will be produced?  Who is the one selecting the sites: is it the director, the production accountant, etc.? And are there any influences from directors who have ties to their home states?
+- WV Resident: I think that's the amount of films that have come out of Georgia and WV would be a good statistic to add.
+- Class Group Interview: We would like to see more about budgets - is it cheaper to make in one state versus another based on wages, accomodations, transportation costs/traffic, incidentals, etc.
 
 ### 6. Was there anything you found that detracted from the story?
-Filmmaker: The map Film incentive is hard to read. The colors of the US key on the right hand side of the map page should have a brighter color because the gray mixes in with the black background. The part about Georgia needs more, and I see its still a work in progress so that’s awesome! It also takes a while to get to why West Virginia because to focuses on CA and GA for a bit so make sure that focus is met early on.
-Data Analyst: Really unique topic that I didn't know much about. So to me, nothing detracted, just interested to learn more and more!
-WV Resident: I was intrigued until the end. Didn't find it boring or repetitive in any way!
-Class Group Interview: We didn't think anything detracted.
+- Filmmaker: The map Film incentive is hard to read. The colors of the US key on the right hand side of the map page should have a brighter color because the gray mixes in with the black background. The part about Georgia needs more, and I see its still a work in progress so that’s awesome! It also takes a while to get to why West Virginia because to focuses on CA and GA for a bit so make sure that focus is met early on.
+- Data Analyst: Really unique topic that I didn't know much about. So to me, nothing detracted, just interested to learn more and more!
+- WV Resident: I was intrigued until the end. Didn't find it boring or repetitive in any way!
+- Class Group Interview: We didn't think anything detracted.
 
 ### 7. What were your final thoughts by the end of the draft? What were you motivated to do by the end, if anything?
-Filmmaker: I wanted to read more about West Virginia’s film growth. It left me feeling to keep an eye out for what may come in West Virginia. Is there any other reasons why California is on the decline? Adding both WV and CA could help make the story well rounded and why CA is on the decline. Why they are not doing as well as others. It’s cool about taxes but maybe a just final “why is this state a good choice” a final thought maybe
-Data Analyst: I really liked it and it makes me think of international implications, such as Bollywood and some research that I know about Nigeria. I want to learn more and share the draft with other people.
-WV Resident: I want to look into WV films more. The main thing I think about is _Buckwild_ which is probably an injustice to the film industry here.
-Class Group Interview: It makes us want to learn more about the topic and look into budgeting in WV and other states.
+- Filmmaker: I wanted to read more about West Virginia’s film growth. It left me feeling to keep an eye out for what may come in West Virginia. Is there any other reasons why California is on the decline? Adding both WV and CA could help make the story well rounded and why CA is on the decline. Why they are not doing as well as others. It’s cool about taxes but maybe a just final “why is this state a good choice” a final thought maybe
+- Data Analyst: I really liked it and it makes me think of international implications, such as Bollywood and some research that I know about Nigeria. I want to learn more and share the draft with other people.
+- WV Resident: I want to look into WV films more. The main thing I think about is _Buckwild_ which is probably an injustice to the film industry here.
+- Class Group Interview: It makes us want to learn more about the topic and look into budgeting in WV and other states.
 
 
 Moving Forward to Part Three: 
