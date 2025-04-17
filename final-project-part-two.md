@@ -30,10 +30,10 @@ Based on these goals, here are the initial questions:
 
 ## Synthesis of Feedback: 
 ### 1. What is your initial reaction to the draft?
-Filmmaker: It’s really good! Its got great visuals, has good color and a nice flow to it that makes it really engaging!!
-Data Analyst: Really interesting project right away! Super captivating immediately.
-WV Resident: Interesting concept to present about and aesthetically smooth and easy to digest
-Class Group Interview: Good and cool, interesting topic.
+- Filmmaker: It’s really good! Its got great visuals, has good color and a nice flow to it that makes it really engaging!!
+- Data Analyst: Really interesting project right away! Super captivating immediately.
+- WV Resident: Interesting concept to present about and aesthetically smooth and easy to digest
+- Class Group Interview: Good and cool, interesting topic.
 
 ### 2. What story do you think is being told?
 Filmmaker: How film production is moving away from LA, with Georgia rising and West Virginia stepping onto the scene. It's got a mix of history and econ and also talks about how film production has moved away from California and gone to a more diversified, nationwide industry. Especially in smaller states
