@@ -107,7 +107,7 @@ Based on the feedback received, I first plan to improve the data visualizations.
 Narrative-wise, I'm going to give more detail in text about Georgia and West Virginia to try to clarify and answer some of the research questions that arose when reviewers were parsing through the Shorthand draft. For example, more comparison with the three primary states, more explanation about the film tax incentives and the other potential reasons that production would move away from LA that aren't necessarily tax related, and maybe more general background information about how film production works and who actually is the one that decides where films are going to be shot. Additionally, including specific examples of films or TV shows shot in West Virginia and Georgia will be good to add to help filmmakers see that famous films have been shot outside LA and so theirs can be too. Moving into Part Three, I'll flesh out these areas and figure out the Tableau situation, and I will finish out my Shorthand where I currently have placeholders instead of the actual data/write-up. 
 
 ## References
-
+How Atlanta Overtook Hollywood | Roundabout Atlanta. (2023). Roundabout Atlanta Tours & Transportation. https://www.roundaboutatlanta.com/how-atlanta-overtook-hollywood/
 
 ## AI acknowledgements
 None.
