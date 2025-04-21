@@ -1,7 +1,7 @@
 | [home page](https://cflanery-data.github.io/caraf_portfolio/) | [data viz examples](dataviz-examples) | [critique and redesign](makeover-monday.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+# The Final Data Story
+[Link to Shorthand](https://carnegiemellon.shorthandstories.com/hollywood-is-everywhere/index.html)
 
 Text here!
 
