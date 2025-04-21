@@ -27,4 +27,4 @@ Overall, this was a lot of work, but it was really fun project to do! I learned 
 See references in the project.
 
 ### AI Acknowledgements
-
+I used AI to help me brainstorm what information would be best to put in the tables for the film tax incentive comparisons. For example, whether or not to include minimum spend necessary versus notable limitations (I ultimately decided to include the former and not the latter). 
