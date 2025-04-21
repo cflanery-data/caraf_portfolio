@@ -23,8 +23,8 @@ Design-wise, I made the lead in to the actual story more "epic" by making the "L
 # Final Thoughts
 Overall, this was a lot of work, but it was really fun project to do! I learned a lot about film production locations, which will definitely help me as I move forward in my career in the entertainment industry!
 
-# References
+### References
 See references in the project.
 
-# AI Acknowledgements
+### AI Acknowledgements
 
