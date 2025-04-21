@@ -3,14 +3,14 @@
 # About Me
 Hi, my name is Cara Flanery (she/her/hers)!  I'm a Master of Entertainment Industry Management (MEIM) student at Heinz College at CMU! I'm from West Virginia, and my favorite color is orange! I am dedicated, creative, and always willing to learn new things. I bring a diverse skill set in project management, marketing, and content creation. My experience ranges from leading film and digital media projects to managing case files in legal and financial settings. 
 
-I am looking forward to broadening my horizons by taking this class, Telling Stories with Data, as I'm very excited to learn a bit more about GitHub, Tableau, and design, as well as the creation of data visualizations. I hope you enjoy viewing my work, and welcome to my portfolio!
+I have definitely broadened my horizons by taking this class, Telling Stories with Data. I am very excited to have learned a bit more about GitHub, Tableau, and design, as well as the creation of data visualizations. I hope you enjoy viewing my work, and welcome to my portfolio!
 
-# What I Hope to Learn
-This class is very unique as it draws on multiple disciplines. I have not used any of the software in this class before, so I'm interested in learning how to use them. 
+# What I Have Learned
+This class is very unique as it draws on multiple disciplines. I have not used any of the software in this class before, so I have definitely brushed up my tech skills throughout the course! 
 
 1. Tableau Basics
 2. GitHub Basics
-3. HTML and (possibly) some CSS
+3. HTML and some CSS
 4. Better Design Principles (for the Portfolio and for Data Visualizations)
 5. Making and maintaining a portfolio
 6. Critique Skills
@@ -29,7 +29,7 @@ This is a link to a shortened version of my film capstone I created in 2023. It 
 This is a link to my first blog I wrote in a summer marketing internship in 2022! I also created the embedded infographic within the blog. 
 
 ## Assignments
-Within Telling Stories with Data, I am learning a lot and creating a lot of data visualizations! Below are some assignments. 
+Within Telling Stories with Data, I have learned a lot and created a lot of data visualizations! Below are some assignments. 
 
 ### Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 This is an assignment called "Visualizing Government Debt." 
