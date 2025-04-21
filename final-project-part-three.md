@@ -1,36 +1,30 @@
 | [home page](https://cflanery-data.github.io/caraf_portfolio/) | [data viz examples](dataviz-examples) | [critique and redesign](makeover-monday.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The Final Data Story
+# The Finished Product!
 [Link to Shorthand](https://carnegiemellon.shorthandstories.com/hollywood-is-everywhere/index.html)
 
-Text here!
+# Changes Made Since Part II
+Going into part three, I felt pretty good about where I stood in part two. I made a lot of changes based on feedback in part two and my own personal opinions. 
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+## The Audience
+One prominent change I made was the target audience. Instead of doing all filmmakers (both studios and independents), I narrowed it to specifically independent filmmakers to encourage them to come to WV as a place to consider for their next film. I felt that it worked more for indie filmmakers because they're the ones with a tighter budget and more location constraints than studio filmmakers (though it would be great to get the studio filmmakers there!). I also felt that indie filmmakers are a more reachable audience especially in the short term. Though it was targeted to these indie filmmakers, I still wanted to keep a timeline and call out statistics for the history of Hollywood, as that might be interesting to them, but also as information for the class during the presentation. 
 
-Text here!
+## Data Visualizations 
+Instead of having a table comparing CA, GA, and WV, I did 3 tables that compared each of the states to each other in pairs and used animation to overlay them. I think this worked well to draw attention to one state in particular that I was highlighting, and I also think it makes it more interactive. I kept examples of films in both Georgia and WV to show that there are really cool films outside of LA! I also ended up making a data visualization of the decline in shooting days in LA instead of growing economic revenue in WV/the decline of the market share in CA, but I left it on a hopeful note saying that CA is already taking steps to address this by changing their program to be more aggressive as a film incentive that will be going into effect soon, so California as an option for filmmaking is not going away anytime soon. 
 
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+I also ended up using screenshots for all my Tableau data visualizations and pasting them into Canva, then uploading them as images in my project. I posted a link to the Tableau public within the project under the screenshotted visualization. This allowed me to keep within my color scheme and made the weird visual glitches go away, which I am happy with. Yes, there is less interactivity, but they can go to the publicly posted Tableau public link that I've provided if they're curious for more. For the data visualizations (the horizontal bar charts), based on the feedback of the data analyst, I did change the units to be more consistent, making them all be names of the countries (ex. UK, US, Morocco, etc.) instead of what it used to be (ex. UK, Atlanta, GA, Africa, etc.). Moreover, I added a data call-out statistic of the jobs and revenue the entertainment industry brings to WV to show the economic impact that would also help to provide more context. 
 
-Text here!
+## Call to Action
+The call to action is now basically, "If you're looking for a state for your next film production, look no further than WV!" The button links to the film office in WV, leading filmmakers to more information about how to start your project in WV. 
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+## Design and Formatting
+Design-wise, I made the lead in to the actual story more "epic" by making the "Lights, Camera, Action" have more impact. Additionally, instead of doing in-line citations like I had originally, I used the annotation tool in Shorthand to make it look more streamlined. And finally, in general, I added a lot of writing that I think helps add context and makes the story flow. I hope you enjoy learning more about film production incentives and feel encouraged to look at WV for your next production!
 
-Text here!
+# Final Thoughts
+Overall, this was a lot of work, but it was really fun project to do! I learned a lot about film production locations, which will definitely help me as I move forward in my career in the entertainment industry!
 
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+# References
+See references in the project.
 
-## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
-
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
+# AI Acknowledgements
 
